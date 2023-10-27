@@ -28,7 +28,7 @@ const translations = {
         "address_title": "Our Address",
         "footer_france_address": "17 Mont Vallier Street, 31770 Colomiers",
         "footer_tunisia_address": "Golden Towers Building, Block B, 2nd Floor, North Urban Center, 1082 Tunis",
-        "hero_title": "Simplifying Complexity, Amplifying Success",
+        "hero_title": "We simplify Complexity, You amplify Success",
         "hero_subtitle": "We systematically integrate big data and the best monitoring technologies into our systems.",
         "Get in Touch": "Get in Touch",
         "about_title": "About PCP Consulting",
